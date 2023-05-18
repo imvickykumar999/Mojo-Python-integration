@@ -1,0 +1,9 @@
+
+from PythonInterface import Python
+
+# This is equivalent to Python's `import numpy as np`
+let np = Python.import_module("numpy")
+
+# Now use numpy as if writing in Python
+a = np.array([1, 2, 3])
+print(a)
