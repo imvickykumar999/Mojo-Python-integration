@@ -2,7 +2,7 @@
 
 ## Importing Python modules
 
-`mojo-code.mojo`
+`mojo-code.🔥`
 
     from PythonInterface import Python
 
